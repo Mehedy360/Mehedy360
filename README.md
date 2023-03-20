@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **blockchain development with react**
 
-- 👯 I’m looking to collaborate on [python](backend for toolchain)
+- 👯 I’m looking to collaborate on [python,django,react]
 
 - 💬 Ask me about **react and python**
 
